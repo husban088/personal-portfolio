@@ -80,7 +80,7 @@ const Home = () => {
                             <h2 className="head__text"> Hi I,m <span>Husban Ahmad</span></h2>
                             <h2 className="sub__text">And i am <span></span></h2>
                             <p className="home__para">
-                            Hey! Are you looking for a Google Firebase Developer, Web developer, React developer or UI/UX Developer? I have four years of experience and working to make your development faster, easier and efficient. Available 24/7 get in touch to discuss details.
+                            Hey! Are you looking for a Google Firebase Developer, Web developer, React developer or UI/UX Developer? I have two years of experience and working to make your development faster, easier and efficient. Available 24/7 get in touch to discuss details.
                             </p>
                             <div className="home__button">
                                 <button class="custom-btn btn-9">Hire me</button>

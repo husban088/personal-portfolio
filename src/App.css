@@ -285,6 +285,10 @@ body {
   .home__details {
     transform: translateX(4rem);
   }
+
+  .home__para {
+    width: 110% !important;
+  }
 }
 
 @media only screen and (max-width: 1030px) {
@@ -362,7 +366,7 @@ body {
   }
 
   .home__para {
-    width: 190%;
+    width: 190% !important;
   }
 
   .yr__text {
@@ -387,7 +391,7 @@ body {
   }
 
   .home__para {
-    width: 150%;
+    width: 160% !important;
   }
 }
 
@@ -409,7 +413,7 @@ body {
   }
 
   .home__para {
-    width: 110%;
+    width: 130% !important;
   }
 }
 
@@ -541,7 +545,7 @@ body {
   }
 
   .home__para {
-    width: 100%;
+    width: 100% !important;
     font-size: 2rem !important;
   }
 
@@ -809,6 +813,7 @@ body {
 .home__para {
   margin-top: 1rem;
   font-size: 2.2rem;
+  width: 120%;
 }
 
 .home__icons {
